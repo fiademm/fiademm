@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fiademm
-- 👀 I’m interested in working on projects.
-- 💞️ I’m looking to collaborate on all kinds of projects.
+- 👀 I’m interested in developing effective solutions for real world problems.
+- 💞️ I’m looking to contribute and collaborate on all kinds of projects.
 - 📫 How to reach me fiademm1@gmail.com
 
 <!---
